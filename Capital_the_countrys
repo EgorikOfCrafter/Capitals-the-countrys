@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>
+      Столицы стран 1-ая часть
+    </title>
+    <link rev="stylesheet"
+    href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <h1>Столицы стран</h1>
+      <h2>1-ая часть</h2>
+    </header>
+    <main>
+    </main>
+    <footer>
+    </footer>
+  </body>
+</html>
